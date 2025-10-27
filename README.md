@@ -27,4 +27,38 @@ It uses Python, Scikit-learn, and Streamlit to build and deploy an interactive w
 </p>
 
 
+🧠 Key Features
+
+Predicts heart disease likelihood based on patient details
+
+Interactive web app built with Streamlit
+
+Data preprocessing and feature scaling using Pandas & Scikit-learn
+
+Multiple ML algorithms compared: Logistic Regression, KNN, Random Forest
+
+Model saved using Joblib for easy reuse
+
+Visualized feature importance and accuracy metrics
+
+🧩 Technologies Used
+
+Python 3.x
+
+Pandas, NumPy
+
+Matplotlib, Seaborn
+
+Scikit-learn
+
+Streamlit
+
+Joblib
+
+| Model               | Accuracy       |
+| ------------------- | -------------- |
+| Logistic Regression | 85%            |
+| KNN                 | 83%            |
+| Random Forest       | **88% (Best)** |
+| SVM                 | 86%            |
 
