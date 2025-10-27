@@ -69,14 +69,15 @@ Joblib
 🚀 How to Run
 
 # Clone the repo
-git clone https://github.com/your-username/heart-disease-prediction.git
-cd heart-disease-prediction
+git clone https://github.com/abhayshuklaofficial10-oss/Heart_Diseases_Project_with_streamlit.git
+cd Heart_Diseases_Project_with_streamlit
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Run the app
+# Run the Streamlit app
 streamlit run app.py
+
 
 👨‍💻 Author
 
