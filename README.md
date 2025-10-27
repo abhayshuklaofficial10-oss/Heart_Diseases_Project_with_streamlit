@@ -56,10 +56,32 @@ Streamlit
 
 Joblib
 
+⚙️ Model Accuracy
+
 | Model               | Accuracy       |
 | ------------------- | -------------- |
 | Logistic Regression | 85%            |
 | KNN                 | 83%            |
 | Random Forest       | **88% (Best)** |
 | SVM                 | 86%            |
+
+
+🚀 How to Run
+
+# Clone the repo
+git clone https://github.com/your-username/heart-disease-prediction.git
+cd heart-disease-prediction
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+streamlit run app.py
+
+👨‍💻 Author
+
+Abhay Kumar Shukla
+💼 Aspiring Data Scientist and Analyst Enthusiast
+📧 abhayshukla.official10@gmail.com
+🔗 www.linkedin.com/in/abhay-shukla-83353a28a
 
