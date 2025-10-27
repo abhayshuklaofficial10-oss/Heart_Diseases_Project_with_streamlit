@@ -1,4 +1,4 @@
-❤️ Heart Disease Prediction using Machine Learning
+<h1 align="center">❤️ Heart Disease Prediction using Machine Learning</h1>
 
 🩺 Project Summary
 
