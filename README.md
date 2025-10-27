@@ -83,6 +83,8 @@ streamlit run app.py
 
 Abhay Kumar Shukla
 💼 Aspiring Data Scientist and Analyst Enthusiast
+
 📧 abhayshukla.official10@gmail.com
+
 🔗 www.linkedin.com/in/abhay-shukla-83353a28a
 
